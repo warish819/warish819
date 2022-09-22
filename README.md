@@ -3,6 +3,11 @@
 <!--   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Earth.gif" width="24px" style="max-width: 100%;"> -->
 </h1>
 
+<h5>I’m currently working on Python/Django/FastApi Projects</h5>
+
+<h5>I’m currently learning Google Cloud Plateform and AWS services</h5>
+
+<h5>How to reach me warish819@gmail.com</h5></br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=warish819&label=Profile%20views&color=0e75b6&style=flat" alt="warish819" /></p>
 
 
