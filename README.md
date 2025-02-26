@@ -1,5 +1,5 @@
 
-<h1>👋Hello World, I'm Warish Khan!
+<h1>👋Hello World, I'm Varish Khan!
 <!--   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Earth.gif" width="24px" style="max-width: 100%;"> -->
 </h1>
 
